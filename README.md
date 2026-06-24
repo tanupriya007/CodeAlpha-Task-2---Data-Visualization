@@ -35,10 +35,8 @@ This project focuses on creating meaningful visualizations to explore and unders
 - Data_Visualization2.ipynb – Complete visualization notebook
 - Dataset not included due to GitHub upload size restrictions
 
-*Author*
-
+*Author* -
 Tanu Priya
 
-*Internship*
-
+*Internship* -
 Submitted as part of the CodeAlpha Data Analytics Internship.
